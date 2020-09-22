@@ -1,3 +1,3 @@
-# repository_API_github
+#API github
 Aplicação final do Curso ES6 da Rocketseat
 
